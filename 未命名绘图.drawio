@@ -22,6 +22,15 @@
         <mxCell id="ljhEOu0WvTBR6UtnbNyy-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="7baba1c4bc27f4b0-2">
           <mxGeometry x="45" y="300" width="10" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="ljhEOu0WvTBR6UtnbNyy-39" value="跳转页面" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="340" />
+            </Array>
+            <mxPoint x="55" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-3" value="服务端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="930" y="80" width="100" height="580" as="geometry" />
         </mxCell>
@@ -49,7 +58,7 @@
           <mxGeometry x="5" y="70" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ljhEOu0WvTBR6UtnbNyy-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ljhEOu0WvTBR6UtnbNyy-6">
-          <mxGeometry x="5" y="310" width="10" height="220" as="geometry" />
+          <mxGeometry x="5" y="310" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ljhEOu0WvTBR6UtnbNyy-9" value="请求页面" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
@@ -75,17 +84,21 @@
             <mxPoint x="900" y="314.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljhEOu0WvTBR6UtnbNyy-35" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="ljhEOu0WvTBR6UtnbNyy-34" parent="1" source="7baba1c4bc27f4b0-2">
+        <mxCell id="ljhEOu0WvTBR6UtnbNyy-35" value="请求页面数据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905" y="395" as="sourcePoint" />
+            <mxPoint x="569.5" y="450" as="sourcePoint" />
+            <mxPoint x="975" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljhEOu0WvTBR6UtnbNyy-36" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="ljhEOu0WvTBR6UtnbNyy-34" parent="1" target="7baba1c4bc27f4b0-2">
+        <mxCell id="ljhEOu0WvTBR6UtnbNyy-36" value="返回数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="ljhEOu0WvTBR6UtnbNyy-34" parent="1" target="7baba1c4bc27f4b0-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="905" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljhEOu0WvTBR6UtnbNyy-37" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="7baba1c4bc27f4b0-2">
+        <mxCell id="ljhEOu0WvTBR6UtnbNyy-37" value="点击按钮" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="7baba1c4bc27f4b0-2">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="80" y="400" as="sourcePoint" />
             <mxPoint x="140" y="400" as="targetPoint" />
