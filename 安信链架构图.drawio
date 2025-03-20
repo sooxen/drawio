@@ -91,7 +91,7 @@
         <mxCell id="gNVEwfZrG3BSMctgMhiv-30" value="AI服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="600" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gNVEwfZrG3BSMctgMhiv-31" value="平台已入驻企业达2000家&lt;br&gt;系统注册用户2000*100 = 20万&lt;div&gt;日活用户 5万&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-31" value="平台已入驻企业达2000家&lt;br&gt;系统注册用户2000*100 = 20万&lt;div&gt;日活用户 5万&lt;br&gt;接入&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="880" height="120" as="geometry" />
         </mxCell>
       </root>
