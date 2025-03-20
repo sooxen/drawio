@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.8.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="2">
   <diagram name="安信链" id="nxGdhr2u6uppM171QZy8">
     <mxGraphModel dx="1229" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -101,65 +101,65 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N9yA3MKx4zabRJAHTN6W" name="BCP业务流程监控">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1229" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x2lejofadA1LeXcIaPLW-1" value="服务A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-1" value="服务A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-2" value="服务B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-2" value="服务B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-3" value="服务C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-3" value="服务C" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-4" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-4" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="110" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-5" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-5" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="110" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-6" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-6" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="110" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-7" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-7" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2lejofadA1LeXcIaPLW-4" target="x2lejofadA1LeXcIaPLW-7">
+        <mxCell id="x2lejofadA1LeXcIaPLW-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="x2lejofadA1LeXcIaPLW-4" target="x2lejofadA1LeXcIaPLW-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="370" as="sourcePoint" />
             <mxPoint x="610" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2lejofadA1LeXcIaPLW-5" target="x2lejofadA1LeXcIaPLW-7">
+        <mxCell id="x2lejofadA1LeXcIaPLW-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x2lejofadA1LeXcIaPLW-5" target="x2lejofadA1LeXcIaPLW-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="225" y="140" as="sourcePoint" />
             <mxPoint x="327" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2lejofadA1LeXcIaPLW-6" target="x2lejofadA1LeXcIaPLW-7">
+        <mxCell id="x2lejofadA1LeXcIaPLW-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x2lejofadA1LeXcIaPLW-6" target="x2lejofadA1LeXcIaPLW-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="235" y="150" as="sourcePoint" />
             <mxPoint x="337" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-11" value="日志收集服务&lt;br&gt;Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-11" value="日志收集服务&lt;br&gt;Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-12" value="可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-12" value="可视化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-13" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-13" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-15" value="API查询" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-15" value="API查询" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="307.5" y="472.5" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-16" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-16" value="基于发布订阅" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="312.5" y="320" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="x2lejofadA1LeXcIaPLW-17" value="批量落库存储" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2lejofadA1LeXcIaPLW-17" value="批量落库存储" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="410" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
