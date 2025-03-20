@@ -7,7 +7,7 @@
         <mxCell id="gNVEwfZrG3BSMctgMhiv-1" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gNVEwfZrG3BSMctgMhiv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="180" y="40" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-3" value="PC端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -19,10 +19,10 @@
         <mxCell id="gNVEwfZrG3BSMctgMhiv-5" value="小程序端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="45" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gNVEwfZrG3BSMctgMhiv-6" value="Nginx负载均衡，静态资源服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-6" value="Nginx负载均衡，静态资源服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="120" width="620" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gNVEwfZrG3BSMctgMhiv-7" value="Gateway网关层，认证，限流，黑白名单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-7" value="Gateway网关层，认证，限流，黑白名单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="200" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-8" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -61,7 +61,7 @@
         <mxCell id="gNVEwfZrG3BSMctgMhiv-19" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="460" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gNVEwfZrG3BSMctgMhiv-20" value="Promethues&lt;br&gt;Grafana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-20" value="Promethues&lt;br&gt;Grafana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="820" y="120" width="90" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-21" value="XXL-JOB定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
