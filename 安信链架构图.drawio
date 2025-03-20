@@ -8,49 +8,52 @@
           <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="610" height="60" as="geometry" />
+          <mxGeometry x="180" y="40" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-3" value="PC端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="45" width="100" height="50" as="geometry" />
+          <mxGeometry x="230" y="45" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-4" value="APP端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="45" width="100" height="50" as="geometry" />
+          <mxGeometry x="420" y="45" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-5" value="小程序端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="45" width="100" height="50" as="geometry" />
+          <mxGeometry x="610" y="45" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-6" value="Nginx负载均衡，静态资源服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="390" height="60" as="geometry" />
+          <mxGeometry x="180" y="120" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-7" value="Gateway网关层，认证，限流，黑白名单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="390" height="60" as="geometry" />
+          <mxGeometry x="180" y="200" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-8" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-9" value="应急服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-10" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-11" value="学习考试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-12" value="基础设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-13" value="风险管控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-14" value="隐患排查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-15" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-16" value="通知服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="290" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-17" value="接入/网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
