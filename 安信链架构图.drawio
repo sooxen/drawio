@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="第 1 页" id="nxGdhr2u6uppM171QZy8">
-    <mxGraphModel>
+    <mxGraphModel dx="1229" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-1" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="610" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-3" value="PC端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="45" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-4" value="APP端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="45" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-5" value="小程序端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="45" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-6" value="Nginx负载均衡，静态资源服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-7" value="Gateway网关层，认证，限流，黑白名单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-8" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-9" value="应急服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-10" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-11" value="学习考试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-12" value="基础设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-13" value="风险管控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-14" value="隐患排查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-15" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-16" value="通知服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
