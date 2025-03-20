@@ -56,37 +56,40 @@
           <mxGeometry x="50" y="120" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-18" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="420" width="80" height="60" as="geometry" />
+          <mxGeometry x="180" y="460" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-19" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="420" width="90" height="60" as="geometry" />
+          <mxGeometry x="280" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-20" value="Promethues&lt;br&gt;Grafana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="120" width="90" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-21" value="XXL-JOB定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-22" value="RabbitMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="420" width="80" height="60" as="geometry" />
+          <mxGeometry x="530" y="460" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-23" value="Nacos注册中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="420" width="90" height="60" as="geometry" />
+          <mxGeometry x="630" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-25" value="短信服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="420" width="80" height="30" as="geometry" />
+          <mxGeometry x="730" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-26" value="邮件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="450" width="80" height="30" as="geometry" />
+          <mxGeometry x="730" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-27" value="OSS对象存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="480" width="80" height="30" as="geometry" />
+          <mxGeometry x="730" y="520" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-28" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNVEwfZrG3BSMctgMhiv-29" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNVEwfZrG3BSMctgMhiv-30" value="AI服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
